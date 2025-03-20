@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+// O código abaixo é um exemplo de como o PHP pode ser utilizado
+//para exibir informações sobre o servidor.
 
 <head>
     <meta charset="UTF-8">
@@ -10,7 +12,7 @@
 <body>
     <h1>Dados do Servidor</h1>
     <?php 
-        phpinfo()
+        phpinfo();
     
     
     ?>
